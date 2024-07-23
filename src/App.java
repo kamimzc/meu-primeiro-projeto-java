@@ -3,5 +3,7 @@ public class App {
         System.out.println("Boas Vindas Turma DIO!!");
 
         System.out.println("teste");
+
+        System.out.println("Teste2");
     }
 }
